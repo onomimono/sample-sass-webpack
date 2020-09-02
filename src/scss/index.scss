@@ -1,0 +1,16 @@
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.heroarea {
+  width: 100%;
+  height: 600px;
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  span {
+    position: relative;
+  }
+}
